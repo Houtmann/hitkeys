@@ -1,8 +1,8 @@
 ####################################################
 #
 # Version 1.0 for Python 3
-# by hadmagic
-# https://github.com/hadmagic
+# by houtmann
+# https://github.com/houtmann
 #
 ####################################################
 # This program is free software: you can redistribute it and/or modify
